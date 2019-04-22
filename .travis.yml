@@ -4,7 +4,7 @@ language: bash
 
 branches:
   only:
-    - master
+    - ansible-4 
 
 env:
   - EXPRESS42=yes
